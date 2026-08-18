@@ -1,0 +1,6 @@
+# No external dependencies required.
+# Uses only Python standard library modules:
+#   - csv (reading/writing CSV)
+#   - json (parsing API responses)
+#   - urllib (HTTP requests to CMS API)
+#   - os, sys, time, datetime
